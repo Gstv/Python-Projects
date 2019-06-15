@@ -2,5 +2,7 @@ Trabalho em grupo de reprodução do jogo Asteroids de Projeto Integrador II da 
 
 Grupo:
 Gustavo André
+
 Guilherme Delmondes
+
 Ícaro Costa
